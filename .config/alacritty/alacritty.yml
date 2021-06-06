@@ -1,0 +1,33 @@
+colors:
+  # Default colors
+  primary:
+    background: '#050405'
+  normal:
+    black:   '#050405'
+    red:     '#c12d38'
+    green:   '#c13140'
+    yellow:  '#997474'
+    blue:    '#ac8081'
+    magenta: '#b39090'
+    cyan:    '#ccacad'
+    white:   '#e1d8d7'
+  bright:
+    black:   '#9d9796'
+    red:     '#c12d38'
+    green:   '#c13140' #акцент
+    yellow:  '#997474'
+    blue:    '#ac8081'
+    magenta: '#b39090' 
+    cyan:    '#ccacad'
+    white:   '#e1d8d7'
+font:
+  normal:
+    family: Fantasque Sans Mono
+    style: Regular
+  bold:
+    family: Fantasque Sans Mono
+    style: Bold
+  italic:
+    family: Fantasque Sans Mono
+    style: Italic
+  size: 9
